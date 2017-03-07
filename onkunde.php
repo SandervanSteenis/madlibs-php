@@ -9,13 +9,14 @@
 </head>
 <body>
 
-<h1>Mad Libs</h1>
+<h1>Onkunde</h1>
 
 <div class="main">
 <nav>
 <ul>
-  <li><a class="active" href="paniek.php">Er heerst paniek...</a></li>
-  <li><a href="onkunde.php">Onkunde</a></li>
+  <li><a href="index.php">Mad Libs</a></li>
+  <li><a href="paniek.php">Er heerst paniek...</a></li>
+  <li><a class="active" href="onkunde.php">Onkunde</a></li>
 </ul>
 </nav>	
 </div>
