@@ -20,6 +20,16 @@
 </ul>
 </nav>	
 </div>
+<div class="frontpage">
+
+<h2>Welkom bij Mad libs!</h2>
+
+<p>Klik op een van de tabs in het menu om te beginnen.</p>
+
+<img id="photo" class="buzz-out" src="img/logo.png">
+
+
+</div>
 
 </body>
 </html>

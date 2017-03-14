@@ -20,6 +20,13 @@
 </ul>
 </nav>	
 </div>
+<div class="page3">
+
+<h2>Onkunde</h2>
+
+<p>Klik op een  tabs in het menu om te beginnen.hoi</p>
+
+</div>
 
 </body>
 </html>
