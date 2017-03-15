@@ -39,7 +39,7 @@
 
 <p>Wat is het ergste dat je kan overkomen? <input type="text" name="overkomen"></p>
 
-<input class="button" type ="submit">
+<input class="button" type ="submit" value="Verzenden">
 
 </form>
 </div>

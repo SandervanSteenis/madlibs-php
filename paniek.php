@@ -41,7 +41,7 @@
 
 <p>Wat is je favoriete bezigheid? <input type="text" name="bezigheid"></p>
 
-<input class="button" type ="submit">
+<input class="button" type ="submit" value="Verzenden">
 
 </form>
 </div>
