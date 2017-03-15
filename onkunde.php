@@ -24,8 +24,24 @@
 
 <h2>Onkunde</h2>
 
-<p>Klik op een  tabs in het menu om te beginnen.hoi</p>
+<form method = "post" action = "onkunde2.php">
+<p>Wat zou je graag willen kunnen? <input type="text" name="kunnen"></p>
 
+<p>Met welk persoon kun je goed opschieten? <input type="text" name="opschieten"></p>
+
+<p>Wat is je favoriete getal? <input type="text" name="getal"></p>
+
+<p>Wat heb je altijd bij je als je op vakantie gaat? <input type="text" name="vakantie"></p>
+
+<p>Wat is je beste persoonlijke eigenschap? <input type="text" name="beste"></p>
+
+<p>Wat is je slechtste persoonlijke eigenschap? <input type="text" name="slechtste"></p>
+
+<p>Wat is het ergste dat je kan overkomen? <input type="text" name="overkomen"></p>
+
+<input class="button" type ="submit">
+
+</form>
 </div>
 
 </body>
